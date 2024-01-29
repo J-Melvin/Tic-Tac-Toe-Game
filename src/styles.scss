@@ -111,7 +111,7 @@ button {
         border-right: none;
       }
       &.winning {
-        animation: scaleText 1.4s infinite;
+        animation: scaleText 1.2s infinite;
         @keyframes scaleText {
           0% {
             transform: 2.5rem;
